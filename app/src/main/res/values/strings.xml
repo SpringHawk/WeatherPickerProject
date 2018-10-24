@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WeatherPicker</string>
+    <string name="TVEnterACity">Enter a city to get the current weather:</string>
+    <string name="BtnConfrimCity">Tell me the weather</string>
+    <string name="ETCityHint">City</string>
+</resources>
